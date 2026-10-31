@@ -57,9 +57,7 @@ la cantidad de documentos por trabajador no es igual y cambia en cada ejecución
 - El tiempo de trabajo quedó parecido entre todos; lo que se equilibra es el tiempo
   ocupado, no la cantidad de documentos.
 
-> **Importante:** estos números son de una ejecución de ejemplo. Los tamaños son
-> aleatorios, así que antes de entregar reemplaza esta tabla y la lectura de arriba
-> con los datos de **tu** ejecución (los mismos de tus capturas).
+
 
 ## Verificaciones
 
