@@ -1,0 +1,25 @@
+documento,trabajador,tamano
+1,Joel Corina,3
+2,Ernesto Colmena,2
+3,Camila Vargas,1
+4,Pablo Medina,1
+5,Pablo Medina,2
+6,Camila Vargas,5
+7,Ernesto Colmena,4
+8,Joel Corina,1
+9,Pablo Medina,2
+10,Joel Corina,3
+11,Pablo Medina,2
+12,Camila Vargas,3
+13,Ernesto Colmena,2
+14,Joel Corina,5
+15,Pablo Medina,1
+16,Pablo Medina,1
+17,Ernesto Colmena,4
+18,Pablo Medina,5
+19,Camila Vargas,2
+20,Camila Vargas,4
+21,Joel Corina,2
+22,Ernesto Colmena,4
+23,Joel Corina,1
+24,Pablo Medina,2
