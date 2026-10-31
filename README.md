@@ -63,9 +63,9 @@ la cantidad de documentos por trabajador no es igual y cambia en cada ejecución
 
 ## Verificaciones
 
-1. La suma de documentos por trabajador es 24. ✅
-2. Cada ID aparece una sola vez (se comprueba con el registro detallado). ✅
-3. Los cuatro hilos finalizan sin quedarse bloqueados. ✅
+1. La suma de documentos por trabajador es 24. 
+2. Cada ID aparece una sola vez (se comprueba con el registro detallado). 
+3. Los cuatro hilos finalizan sin quedarse bloqueados. 
 
 ## Preguntas
 
